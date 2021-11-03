@@ -1,5 +1,3 @@
-console.log(shiftToTheRight(-512, 10))
-
 function shiftToTheRight(num, places) {
 
     if (places == 1) {
